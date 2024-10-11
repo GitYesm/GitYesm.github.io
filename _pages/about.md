@@ -17,14 +17,33 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a third-year graduate student at the Shandong Computer Center. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently conducting research on low-bitrate speech coding at the Shandong Computer Center. 
+
+I previously interned at the Shunwang Software Research Institute, where I focused on text-to-speech (TTS) research. 
+
+I graduated from Shandong Institute of Business and Technology with a bachelor's degree. I am currently pursuing a master's degree at Qilu University of Technology (Shandong Academy of Sciences) under the supervision of [Li Ye]([李晔 (scsc.cn)](http://www.scsc.cn/bssds/8213.jhtml) ), and I am also a member of the voice information team at the Shandong Computer Center. 
+
+These works are open source to the best of my ability. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08*: &nbsp;🎉🎉 My first paper was accepted by PRICAI. 
+- *2024.08*: &nbsp;🎉🎉 My second patent, titled 'A Speech Compression Method and System Based on Multi-Scale Residual Attention,' has been granted with the patent number CN118335092A. 
+- *2024.07*: &nbsp;🎉🎉 I received a Second Prize in the North China division of the National Postgraduate Electronic Design Competition (Team Leader). 🥈
+- *2024.07*：⚡ ⚡ ：I submitted a paper to Applied Acoustics. 
+- *2024.06*：⚡ ⚡ ：My first paper was rejected by Interspeech, but I learned a lot from the experience. 
+- *2024.06*：⭐ ⭐：I submitted a paper to PRICAI 2024.
+- *2024.03*：⭐ ⭐：I submitted my first paper to Interspeech 2024. 
+- *2024.02*: &nbsp;🎉🎉 My first patent, titled 'A Speech Compression Method and System Based on Deep Learning and Vector Prediction,' has been granted with the patent number CN117423348A. 
+- *2023.11*: &nbsp;🎉🎉 I received a First-Class Academic Scholarship with a GPA of 4.54. 
+- *2023.07*: &nbsp;🎉🎉 I received a Second Prize in the North China division of the National Postgraduate Electronic Design Competition (Team Leader). 🥈
+- *2022.12*: &nbsp;🎉🎉 I received a First Prize in the university-level category of the Shandong University Student Technological Innovation Competition. 🥇
+- *2022.07*: &nbsp;🎉🎉 I received a bachelor's degree from Shandong Institute of Business and Technology.
+- *2021.04*: &nbsp;🎉🎉 I received an Honor Scholarship from Shandong Institute of Business and Technology.
+- *2020.07*: &nbsp;🥊 🥊  I served as an assistant coach for Yantai Shangboge Fighting Muay Thai and as a referee for the Hongyang Cup Youth Free Fighting Competition. 
+- *2018.12*: &nbsp;🎉🎉 I received an excellence Award in the Yantai University Student Innovation and Entrepreneurship Competition (Team Leader). 🥇
 
 # 📝 Publications 
 
@@ -43,16 +62,22 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09* ：First-Class Academic Scholarship from Qilu University of Technology. (GPA：4.54)
+- 2021.06：Second-Class Academic Scholarship from  Shandong Institute of Business and Technology.
+- *2021.04*： Honor Scholarship from Shandong Institute of Business and Technology. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - now*, Master, Qilu University of Technology (Shandong Academy of Sciences), Jinan
+- *2018.09 - 2022.06*, Undergraduate, Shandong Institute of Business and Technology, department of Mathematics and Information Science, Big Data，Yantai
+- *2015.09 - 2018.06*, Changyi First Middle School，Weifang
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Hobbies 
+
+- *2023.11-2024.04*, I train at Heyou MMA Club under the supervision of Chen Dong. 
+- *2021.06-2021.07*, I train at Jian'ao Boxing under the supervision of Coach Yang Zhongming.
+- *2020.03-2022.06*, I serve as an assistant coach for Kick boxing at Shangboge Fighting, responsible for scheduling and training adult classes in the evenings, under the supervision of Coach Bart. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.09 - 2024.11*, Shunwang Software Research Institute, speech synthesis algorithm research 
+- *2023.09 - 2024.09*, Shandong Computer Center, speech coding algorithm research. 
+- *2021.09 - 2022.03*, Dual education, full-stack developer. 
