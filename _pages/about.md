@@ -71,7 +71,7 @@ These works are open source to the best of my ability.
 - *2018.09 - 2022.06*, Undergraduate, Shandong Institute of Business and Technology, department of Mathematics and Information Science, Big Data，Yantai
 - *2015.09 - 2018.06*, Changyi First Middle School，Weifang
 
-# 💬 Hobbies 
+# 💬 Invited Talks 
 
 - *2023.11-2024.04*, I train at Heyou MMA Club under the supervision of Chen Dong. 
 - *2021.06-2021.07*, I train at Jian'ao Boxing under the supervision of Coach Yang Zhongming.
