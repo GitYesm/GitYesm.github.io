@@ -47,19 +47,30 @@ These works are open source to the best of my ability.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRICAI2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRICAI2024</div><img src='images/MSCACodec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[MSCACodec: A Low-rate Neural Speech Codec With Multi-scale Residual Channel Attention](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xingye Yu**, Ye Li, Peng Zhang, Lingxia Lin, Tianyu Cai
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/GitYesm/MSCACodec) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A Low-rate Neural Speech Codec With Multi-scale Residual Channel Attention. 
+</div>
+
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Acoustics</div><img src='images/PMVQCodec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Low Bit-Rate Speech Coding With Predictive Multi-Level Vector Quantization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4877874)
+
+**Xingye Yu**, Ye Li, Peng Zhang, Lingxia Lin, Tianyu Cai
+
+[**Project**](https://github.com/GitYesm/PMVQCodec) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A Low-rate Neural Speech Codec With Predictive Multi-Level Vector Quantization
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2023.09* ：First-Class Academic Scholarship from Qilu University of Technology. (GPA：4.54)
