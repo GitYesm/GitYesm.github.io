@@ -32,14 +32,14 @@ These works are open source to the best of my ability.
 - *2024.08*: &nbsp;🎉🎉 My first paper was accepted by PRICAI. 
 - *2024.08*: &nbsp;🎉🎉 My second patent, titled 'A Speech Compression Method and System Based on Multi-Scale Residual Attention,' has been granted with the patent number CN118335092A. 
 - *2024.07*: &nbsp;🎉🎉 I received a Second Prize in the North China division of the National Postgraduate Electronic Design Competition (Team Leader). 🥈
-- *2024.07*：⚡ ⚡ ：I submitted a paper to Applied Acoustics. 
-- *2024.06*：⚡ ⚡ ：My first paper was rejected by Interspeech, but I learned a lot from the experience. 
-- *2024.06*：⭐ ⭐：I submitted a paper to PRICAI 2024.
-- *2024.03*：⭐ ⭐：I submitted my first paper to Interspeech 2024. 
+- *2024.07*：I submitted a paper to Applied Acoustics. 
+- *2024.06*：My first paper was rejected by Interspeech ⚡ , but I learned a lot from the experience. 
+- *2024.06*：I submitted a paper to PRICAI 2024.
+- *2024.03*：I submitted my first paper to Interspeech 2024. 
 - *2024.02*: &nbsp;🎉🎉 My first patent, titled 'A Speech Compression Method and System Based on Deep Learning and Vector Prediction,' has been granted with the patent number CN117423348A. 
 - *2023.11*: &nbsp;🎉🎉 I received a First-Class Academic Scholarship with a GPA of 4.54. 
 - *2023.07*: &nbsp;🎉🎉 I received a Second Prize in the North China division of the National Postgraduate Electronic Design Competition (Team Leader). 🥈
-- *2022.12*: &nbsp;🎉🎉 I received a First Prize in the university-level category of the Shandong University Student Technological Innovation Competition. 🥇
+- *2022.12*: &nbsp;🎉🎉 I received First Prize in the university-level category of the Shandong University Student Technological Innovation Competition. 🥇
 - *2022.07*: &nbsp;🎉🎉 I received a bachelor's degree from Shandong Institute of Business and Technology.
 - *2021.04*: &nbsp;🎉🎉 I received an Honor Scholarship from Shandong Institute of Business and Technology.
 - *2020.07*: &nbsp;🥊 🥊  I served as an assistant coach for Yantai Shangboge Fighting Muay Thai and as a referee for the Hongyang Cup Youth Free Fighting Competition. 
