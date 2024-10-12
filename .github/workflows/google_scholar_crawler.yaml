@@ -1,22 +1,31 @@
 name: Get Citation Data
 
 on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+  page_build: 
+  schedule:
+    - cron:  '0 8 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Install Reqs
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'  # Replace with your desired Python version
+
+    - name: Create and activate virtual environment
       run: |
-        sudo apt-get install python3-setuptools
+        python3 -m venv myenv
+        source myenv/bin/activate
+        pip install -r requirements.txt
+
     - name: Run
       run: |
+        source myenv/bin/activate
         cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
         python3 main.py
         cd ./results
         git init
