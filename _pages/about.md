@@ -42,7 +42,7 @@ These works are open source to the best of my ability.
 - *2022.12*: &nbsp;🎉🎉 I received First Prize in the university-level category of the Shandong University Student Technological Innovation Competition. 🥇
 - *2022.07*: &nbsp;🎉🎉 I received a bachelor's degree from Shandong Institute of Business and Technology.
 - *2021.04*: &nbsp;🎉🎉 I received an Honor Scholarship from Shandong Institute of Business and Technology.
-- *2020.07*: &nbsp;🥊 🥊  I served as an assistant coach for Yantai Shangboge Fighting Muay Thai and as a referee for the Hongyang Cup Youth Free Fighting Competition. 
+- *2020.07*: &nbsp; I served as an assistant coach for Yantai Shangboge Fighting Muay Thai 🥊 and as a referee for the Hongyang Cup Youth Free Fighting Competition. 
 - *2018.12*: &nbsp;🎉🎉 I received an excellence Award in the Yantai University Student Innovation and Entrepreneurship Competition (Team Leader). 🥇
 
 # 📝 Publications 
