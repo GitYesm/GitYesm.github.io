@@ -50,7 +50,7 @@ These works are open source to the best of my ability.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRICAI2024</div><img src='images/MSCACodec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MSCACodec: A Low-rate Neural Speech Codec With Multi-scale Residual Channel Attention](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[MSCACodec: A Low-rate Neural Speech Codec With Multi-scale Residual Channel Attention](https://github.com/GitYesm/MSCACodec)
 
 **Xingye Yu**, Ye Li, Peng Zhang, Lingxia Lin, Tianyu Cai
 
