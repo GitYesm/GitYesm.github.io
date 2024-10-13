@@ -96,16 +96,6 @@ These works are open source to the best of my ability.
 - *2023.09 - 2024.09*, Shandong Computer Center, speech coding algorithm research. 
 - *2021.09 - 2022.03*, Dual education, full-stack developer.
 
-# 🥊 Hobbies
-- *2023.11-2024.04*, I train at Heyou MMA Club under the supervision of Chen Dong. 
-- *2021.06-2021.07*, I train at Jian'ao Boxing under the supervision of Coach Yang Zhongming.
-- *2020.03-2022.06*, I serve as an assistant coach for Kick boxing at Shangboge Fighting, responsible for scheduling and training adult classes in the evenings, under the supervision of Coach Bart.
-<div style="display: flex; justify-content: space-between; align-items: center; height: 200px;">
-  <img src="./images/MSACACodec.png" alt="Image 1" style="height: 100%; width: auto;">
-  <img src="./images/MSACACodec.png" alt="Image 2" style="height: 100%; width: auto;">
-  <img src="./images/MSACACodec.png" alt="Image 3" style="height: 100%; width: auto;">
-</div>
-
 
 # 🎭 Skills
 - AI: Proficient in using deep learning frameworks such as PyTorch, PyTorch Lightning, and LangChain.
@@ -114,3 +104,13 @@ These works are open source to the best of my ability.
 - Front-end: Proficient in using HTML, CSS3, and JavaScript, and skilled in using the Vue3 framework.
 - Database: Proficient in using MySQL, SQLite, MongoDB, and Redis.
 - Mobile: Proficient in Android and mini-program development, and skilled in using the uniapp framework.
+
+# 🥊 Hobbies
+- *2023.11-2024.04*, I train at Heyou MMA Club under the supervision of Chen Dong. 
+- *2021.06-2021.07*, I train at Jian'ao Boxing under the supervision of Coach Yang Zhongming.
+- *2020.03-2022.06*, I serve as an assistant coach for Kick boxing at Shangboge Fighting, responsible for scheduling and training adult classes in the evenings, under the supervision of Coach Bart.
+<div style="display: flex; justify-content: space-between; align-items: center; height: 200px;">
+  <img src="images/hobby1.png" alt="Image 1" style="height: 100%; width: auto;">
+  <img src="images/hobby2.png" alt="Image 2" style="height: 100%; width: auto;">
+  <img src="images/hobby3.png" alt="Image 3" style="height: 100%; width: auto;">
+</div>
