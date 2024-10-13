@@ -29,7 +29,7 @@ These works are open source to the best of my ability.
 
 
 # 🔥 News
-<div style="height: 200px; overflow-y: auto; padding: 10px; border: none;">
+<div style="height: 240px; overflow-y: auto; padding: 10px; border: none;">
   <ul>
     <li><strong>2024.08</strong>: 🎉🎉 My first paper was accepted by PRICAI.</li>
     <li><strong>2024.08</strong>: 🎉🎉 My second patent, titled 'A Speech Compression Method and System Based on Multi-Scale Residual Attention,' has been granted with the patent number CN118335092A.</li>
@@ -99,7 +99,13 @@ These works are open source to the best of my ability.
 # 🥊 Hobbies
 - *2023.11-2024.04*, I train at Heyou MMA Club under the supervision of Chen Dong. 
 - *2021.06-2021.07*, I train at Jian'ao Boxing under the supervision of Coach Yang Zhongming.
-- *2020.03-2022.06*, I serve as an assistant coach for Kick boxing at Shangboge Fighting, responsible for scheduling and training adult classes in the evenings, under the supervision of Coach Bart. 
+- *2020.03-2022.06*, I serve as an assistant coach for Kick boxing at Shangboge Fighting, responsible for scheduling and training adult classes in the evenings, under the supervision of Coach Bart.
+<div style="display: flex; justify-content: space-between; align-items: center; height: 200px;">
+  <img src="./images/MSACACodec.png" alt="Image 1" style="height: 100%; width: auto;">
+  <img src="./images/MSACACodec.png" alt="Image 2" style="height: 100%; width: auto;">
+  <img src="./images/MSACACodec.png" alt="Image 3" style="height: 100%; width: auto;">
+</div>
+
 
 # 🎭 Skills
 - AI: Proficient in using deep learning frameworks such as PyTorch, PyTorch Lightning, and LangChain.
