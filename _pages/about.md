@@ -93,6 +93,14 @@ These works are open source to the best of my ability.
 - *2021.09 - 2022.03*, Dual education, full-stack developer.
 
 # 🥊 Hobbies
-
+- *2023.11-2024.04*, I train at Heyou MMA Club under the supervision of Chen Dong. 
+- *2021.06-2021.07*, I train at Jian'ao Boxing under the supervision of Coach Yang Zhongming.
+- *2020.03-2022.06*, I serve as an assistant coach for Kick boxing at Shangboge Fighting, responsible for scheduling and training adult classes in the evenings, under the supervision of Coach Bart. 
 
 # 🎭 Skills
+- AI: Proficient in using deep learning frameworks such as PyTorch, PyTorch Lightning, and LangChain.
+- Python: Proficient in using Python and web scraping, and adept at frameworks and technologies like DrissionPage, Django, Gradio, and FastAPI.
+- Java: Proficient in using Java, and skilled in using frameworks and technologies such as SpringBoot3, MyBatis, and SpringCloud.
+- Front-end: Proficient in using HTML, CSS3, and JavaScript, and skilled in using the Vue3 framework.
+- Database: Proficient in using MySQL, SQLite, MongoDB, and Redis.
+- Mobile: Proficient in Android and mini-program development, and skilled in using the uniapp framework.
