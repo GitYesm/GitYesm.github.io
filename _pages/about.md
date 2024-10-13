@@ -29,7 +29,7 @@ These works are open source to the best of my ability.
 
 
 # 🔥 News
-<div style="height: 300px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
+<div style="height: 300px; overflow-y: auto; padding: 10px; border: none;">
 
 - **2024.08**: 🎉🎉 My first paper was accepted by PRICAI.
 - **2024.08**: 🎉🎉 My second patent, titled 'A Speech Compression Method and System Based on Multi-Scale Residual Attention,' has been granted with the patent number CN118335092A.
@@ -46,8 +46,9 @@ These works are open source to the best of my ability.
 - **2021.04**: 🎉🎉 I received an Honor Scholarship from Shandong Institute of Business and Technology.
 - **2020.07**: I served as an assistant coach for Yantai Shangboge Fighting Muay Thai 🥊 and as a referee for the Hongyang Cup Youth Free Fighting Competition.
 - **2018.12**: 🎉🎉 I received an excellence Award in the Yantai University Student Innovation and Entrepreneurship Competition (Team Leader). 🥇
-- 
+
 </div>
+
 
 
 # 📝 Publications 
