@@ -21,8 +21,10 @@ main:
   - title: "Internships"
     url: "/#-internships"
 
+  - title: "Skills"
+    url: "/#-skills"
+
   - title: "Hobbies"
     url: "/#-hobbies"
 
-  - title: "Skills"
-    url: "/#-skills"
+
