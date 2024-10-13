@@ -84,9 +84,8 @@ These works are open source to the best of my ability.
 
 # 💬 Invited Talks 
 
-- *2023.11-2024.04*, I train at Heyou MMA Club under the supervision of Chen Dong. 
-- *2021.06-2021.07*, I train at Jian'ao Boxing under the supervision of Coach Yang Zhongming.
-- *2020.03-2022.06*, I serve as an assistant coach for Kick boxing at Shangboge Fighting, responsible for scheduling and training adult classes in the evenings, under the supervision of Coach Bart. 
+- *2024.11*, Kyoto University.
+- *2020.12*, Hongyang Square.
 
 # 💻 Internships
 - *2024.09 - 2024.11*, Shunwang Software Research Institute, speech synthesis algorithm research 
