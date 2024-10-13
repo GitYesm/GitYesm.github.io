@@ -23,7 +23,7 @@ I am currently conducting research on low-bitrate speech coding at the Shandong 
 
 I previously interned at the Shunwang Software Research Institute, where I focused on text-to-speech (TTS) research. 
 
-I graduated from Shandong Institute of Business and Technology with a bachelor's degree. I am currently pursuing a master's degree at Qilu University of Technology (Shandong Academy of Sciences) under the supervision of [Li Ye](https://jingguan.qlu.edu.cn/2022/0701/c6070a209820/page.psp), and I am also a member of the voice information team at the Shandong Computer Center. 
+I graduated from Shandong Institute of Business and Technology with a bachelor's degree. I am currently pursuing a master's degree at Qilu University of Technology (Shandong Academy of Sciences), supervised by [Li Ye](https://jingguan.qlu.edu.cn/2022/0701/c6070a209820/page.psp), and I am also a member of the voice information team at the Shandong Computer Center. 
 
 These works are open source to the best of my ability. 
 
