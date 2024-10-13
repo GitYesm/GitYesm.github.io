@@ -90,4 +90,9 @@ These works are open source to the best of my ability.
 # 💻 Internships
 - *2024.09 - 2024.11*, Shunwang Software Research Institute, speech synthesis algorithm research 
 - *2023.09 - 2024.09*, Shandong Computer Center, speech coding algorithm research. 
-- *2021.09 - 2022.03*, Dual education, full-stack developer. 
+- *2021.09 - 2022.03*, Dual education, full-stack developer.
+
+# 🥊 Hobbies
+
+
+# 🎭 Skills
