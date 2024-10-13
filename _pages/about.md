@@ -110,7 +110,7 @@ These works are open source to the best of my ability.
 - *2021.06-2021.07*, I train at Jian'ao Boxing under the supervision of Coach Yang Zhongming.
 - *2020.03-2022.06*, I serve as an assistant coach for Kick boxing at Shangboge Fighting, responsible for scheduling and training adult classes in the evenings, under the supervision of Coach Bart.
 <div style="display: flex; justify-content: space-between; align-items: center; height: 200px;">
-  <img src="images/hobby1.png" alt="Image 1" style="width: 30%; height: auto;">
-  <img src="images/hobby2.png" alt="Image 2" style="width: 30%; height: auto;">
-  <img src="images/hobby3.png" alt="Image 3" style="width: 30%; height: auto;">
+  <img src="images/hobby1.png" alt="Image 1" style="width: 30%; height:100%;">
+  <img src="images/hobby2.png" alt="Image 2" style="width: 30%; height: 100%;">
+  <img src="images/hobby3.png" alt="Image 3" style="width: 30%; height: 100%;">
 </div>
