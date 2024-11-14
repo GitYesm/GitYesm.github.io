@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>学术展示</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <!-- 第一部分：题目和摘要 -->
+    <section>
+        <h1>学术展示标题</h1>
+        <h2>摘要</h2>
+        <p>
+            本文介绍了一个端到端语音编码技术的实验研究，研究涵盖了当前先进的技术模型，包括SoundStream、Encodec、LMCodec等。通过实验验证，展示了该技术在多语言场景下的性能表现。
+        </p>
+        <!-- 摘要下方的图片 -->
+        <img src="summary_image.jpg" alt="研究示例图片" class="image">
+        <hr>
+    </section>
+
+    <!-- 第二部分：实验测试的语音样本 -->
+    <section>
+        <h2>实验测试的语音样本</h2>
+
+        <!-- 英文样本列表 -->
+        <div class="audio-sample">
+            <h3>英文样本</h3>
+            <ul class="audio-list">
+                <li>
+                    <p>英文样本 1</p>
+                    <audio controls>
+                        <source src="english_sample1.mp3" type="audio/mpeg">
+                        您的浏览器不支持音频播放。
+                    </audio>
+                    <!-- 并排的输出样例 -->
+                    <div class="output-samples">
+                        <div>
+                            <p>输出样例 1</p>
+                            <audio controls>
+                                <source src="output_sample1_english1.mp3" type="audio/mpeg">
+                                您的浏览器不支持音频播放。
+                            </audio>
+                        </div>
+                        <div>
+                            <p>输出样例 2</p>
+                            <audio controls>
+                                <source src="output_sample2_english1.mp3" type="audio/mpeg">
+                                您的浏览器不支持音频播放。
+                            </audio>
+                        </div>
+                        <div>
+                            <p>输出样例 3</p>
+                            <audio controls>
+                                <source src="output_sample3_english1.mp3" type="audio/mpeg">
+                                您的浏览器不支持音频播放。
+                            </audio>
+                        </div>
+                        <div>
+                            <p>输出样例 4</p>
+                            <audio controls>
+                                <source src="output_sample4_english1.mp3" type="audio/mpeg">
+                                您的浏览器不支持音频播放。
+                            </audio>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <p>英文样本 2</p>
+                    <audio controls>
+                        <source src="english_sample2.mp3" type="audio/mpeg">
+                        您的浏览器不支持音频播放。
+                    </audio>
+                </li>
+                <!-- 可继续添加更多英文样本 -->
+            </ul>
+        </div>
+
+        <!-- 中英文样本之间的分割线 -->
+        <hr>
+
+        <!-- 中文样本列表 -->
+        <div class="audio-sample">
+            <h3>中文样本</h3>
+            <ul class="audio-list">
+                <li>
+                    <p>中文样本 1</p>
+                    <audio controls>
+                        <source src="chinese_sample1.mp3" type="audio/mpeg">
+                        您的浏览器不支持音频播放。
+                    </audio>
+                </li>
+                <li>
+                    <p>中文样本 2</p>
+                    <audio controls>
+                        <source src="chinese_sample2.mp3" type="audio/mpeg">
+                        您的浏览器不支持音频播放。
+                    </audio>
+                </li>
+                <!-- 可继续添加更多中文样本 -->
+            </ul>
+        </div>
+    </section>
+</div>
+
+</body>
+</html>
