@@ -3,104 +3,275 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>学术展示</title>
+    <title>MSCACODEC-PRICAI2024</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <div class="container">
-    <!-- 第一部分：题目和摘要 -->
     <section>
-        <h1>学术展示标题</h1>
-        <h2>摘要</h2>
-        <p>
-            本文介绍了一个端到端语音编码技术的实验研究，研究涵盖了当前先进的技术模型，包括SoundStream、Encodec、LMCodec等。通过实验验证，展示了该技术在多语言场景下的性能表现。
-        </p>
-        <!-- 摘要下方的图片 -->
-        <img src="summary_image.jpg" alt="研究示例图片" class="image">
+        <h1 style="text-align: center; font-size: 40px;">MSCACodec: A Low-rate Neural Speech Codec With Multi-scale Residual Channel Attention</h1>
+        <p style="text-align: justify;">In the development of modern communication technology,
+            although wideband speech coding provides high-fidelity speech transmis
+           sion, its high bandwidth requirement limits its application in resource
+           constrained environments. Thus, narrowband speech coding is still of
+            great significance. Recently, end-to-end neural speech coding has made
+            significant progress and demonstrated superior compression performance
+            over traditional methods. However, existing methods are limited in re
+           constructing details, especially in low birate environments. To address
+            this, we introduce MSCACodec, a narrowband-based neural speech codec
+            that achieves advanced performance at low bitrates. MSCACodec adopts
+            a multi-scale residual and channel attention feature fusion method to se
+           lectively focus on multi-scale information to enhance feature representa
+           tion, solving the problem of inconsistent hierarchical information caused
+            by multi-scale feature fusion. In addition, we also propose a Temporal
+            Convolutional Gated Recurrent Unit (TCGRU) module, which combines
+            temporal convolutional networks and gated recurrent units to enhance
+            the reconstruction quality using global context and gating mechanisms.
+            The experimental results show that, whether in subjective or objective
+            evaluation, MSCACodec achieves higher quality reconstructed speech
+            than Encodec and HiFiCodec at bitrates of 1.2kbps and 2.4kbps, and is
+            even better than LyraV2 and Opus at 6kbps.</p>
+        <h2 style="text-align: center;">The architecture of MSCACodec.</h2>
+        <img src="MSCACodec.png" alt="MSCACodec" class="image">
+
         <hr>
     </section>
 
-    <!-- 第二部分：实验测试的语音样本 -->
-    <section>
-        <h2>实验测试的语音样本</h2>
 
-        <!-- 英文样本列表 -->
+    <section>
+        <h2>Experimental results</h2>
+        <!-- English list -->
         <div class="audio-sample">
-            <h3>英文样本</h3>
+            <h3>PartI : English samples</h3>
             <ul class="audio-list">
                 <li>
-                    <p>英文样本 1</p>
+                    <p style="color:palevioletred;">origin_samples1</p>
                     <audio controls>
-                        <source src="english_sample1.mp3" type="audio/mpeg">
-                        您的浏览器不支持音频播放。
+                        <source src="test_wav/English/test1/1089-134686-0023.wav" type="audio/mpeg">
                     </audio>
-                    <!-- 并排的输出样例 -->
+                    <!-- 1.2-->
                     <div class="output-samples">
                         <div>
-                            <p>输出样例 1</p>
+                            <p>Codec2-1.2kbps</p>
                             <audio controls>
-                                <source src="output_sample1_english1.mp3" type="audio/mpeg">
-                                您的浏览器不支持音频播放。
+                                <source src="test_wav/English/test1/1.2/codec2.wav" type="audio/mpeg">
                             </audio>
                         </div>
                         <div>
-                            <p>输出样例 2</p>
+                            <p>LyraV2-3.2kbps</p>
                             <audio controls>
-                                <source src="output_sample2_english1.mp3" type="audio/mpeg">
-                                您的浏览器不支持音频播放。
+                                <source src="test_wav/English/test1/1.2/LyraV2.wav" type="audio/mpeg">
                             </audio>
                         </div>
                         <div>
-                            <p>输出样例 3</p>
+                            <p>Encodec-1.2kbps</p>
                             <audio controls>
-                                <source src="output_sample3_english1.mp3" type="audio/mpeg">
-                                您的浏览器不支持音频播放。
+                                <source src="test_wav/English/test1/1.2/Encodec.wav" type="audio/mpeg">
                             </audio>
                         </div>
                         <div>
-                            <p>输出样例 4</p>
+                            <p>HiFiCodec-1.2kbps</p>
                             <audio controls>
-                                <source src="output_sample4_english1.mp3" type="audio/mpeg">
-                                您的浏览器不支持音频播放。
+                                <source src="test_wav/English/test1/1.2/HiFiCodec.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>MSCACodec-1.2kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test1/1.2/MSCACodec.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                    </div>
+                    <!--2.4-->
+                    <div class="output-samples">
+                        <div>
+                            <p>Codec2-2.4kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test1/2.4/codec2.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>LyraV2-6kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test1/1.2/LyraV2.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>Encodec-2.4kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test1/2.4/Encodec.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>HiFiCodec-2.4kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test1/2.4/HiFiCodec.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>MSCACodec-2.4kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test1/2.4/MSCACodec.wav" type="audio/mpeg">
                             </audio>
                         </div>
                     </div>
                 </li>
                 <li>
-                    <p>英文样本 2</p>
+                    <p style="color:palevioletred;">origin_samples2</p>
                     <audio controls>
-                        <source src="english_sample2.mp3" type="audio/mpeg">
-                        您的浏览器不支持音频播放。
+                        <source src="test_wav/English/test2/1284-1180-0000.wav" type="audio/mpeg">
                     </audio>
+                    <!-- 1.2 row -->
+                    <div class="output-samples">
+                        <div>
+                            <p>Codec2-1.2kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test2/1.2/codec2.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>LyraV2-3.2kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test2/1.2/LyraV2.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>Encodec-1.2kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test2/1.2/Encodec.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>HiFiCodec-1.2kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test2/1.2/HiFiCodec.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>MSCACodec-1.2kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test2/1.2/MSCACodec.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                    </div>
+                    <!--2.4 row-->
+                    <div class="output-samples">
+                        <div>
+                            <p>Codec2-2.4kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test2/2.4/codec2.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>LyraV2-6kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test2/1.2/LyraV2.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>Encodec-2.4kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test2/2.4/Encodec.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>HiFiCodec-2.4kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test2/2.4/HiFiCodec.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>MSCACodec-2.4kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test2/2.4/MSCACodec.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                    </div>
                 </li>
-                <!-- 可继续添加更多英文样本 -->
+                <li>
+                    <p style="color:palevioletred;">origin_samples3</p>
+                    <audio controls>
+                        <source src="test_wav/English/test3/1188-133604-0017.wav" type="audio/mpeg">
+                    </audio>
+                    <!-- 1.2 row -->
+                    <div class="output-samples">
+                        <div>
+                            <p>Codec2-1.2kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test3/1.2/codec2.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>LyraV2-3.2kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test3/1.2/LyraV2.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>Encodec-1.2kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test3/1.2/Encodec.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>HiFiCodec-1.2kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test3/1.2/HiFiCodec.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>MSCACodec-1.2kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test3/1.2/MSCACodec.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                    </div>
+                    <!--2.4 row-->
+                    <div class="output-samples">
+                        <div>
+                            <p>Codec2-2.4kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test3/2.4/codec2.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>LyraV2-6kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test3/1.2/LyraV2.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>Encodec-2.4kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test3/2.4/Encodec.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>HiFiCodec-2.4kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test3/2.4/HiFiCodec.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                        <div>
+                            <p>MSCACodec-2.4kbps</p>
+                            <audio controls>
+                                <source src="test_wav/English/test3/2.4/MSCACodec.wav" type="audio/mpeg">
+                            </audio>
+                        </div>
+                    </div>
+                </li>
+
             </ul>
         </div>
 
-        <!-- 中英文样本之间的分割线 -->
+
         <hr>
 
-        <!-- 中文样本列表 -->
+        <!--Chinese list-->
         <div class="audio-sample">
-            <h3>中文样本</h3>
-            <ul class="audio-list">
-                <li>
-                    <p>中文样本 1</p>
-                    <audio controls>
-                        <source src="chinese_sample1.mp3" type="audio/mpeg">
-                        您的浏览器不支持音频播放。
-                    </audio>
-                </li>
-                <li>
-                    <p>中文样本 2</p>
-                    <audio controls>
-                        <source src="chinese_sample2.mp3" type="audio/mpeg">
-                        您的浏览器不支持音频播放。
-                    </audio>
-                </li>
-                <!-- 可继续添加更多中文样本 -->
-            </ul>
+            <h3>PartII : Chinese samples</h3>
+            
         </div>
     </section>
 </div>
