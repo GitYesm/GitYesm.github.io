@@ -23,7 +23,7 @@ I am currently conducting research on low-bitrate speech coding at the Shandong 
 
 I previously interned at the Shunwang Software Research Institute, where I focused on text-to-speech (TTS) research. 
 
-I graduated from Shandong Institute of Business and Technology with a bachelor's degree. I am currently pursuing a master's degree at Qilu University of Technology (Shandong Academy of Sciences), supervised by [Li Ye](https://jingguan.qlu.edu.cn/2022/0701/c6070a209820/page.psp), and I am also a member of the voice information team at the Shandong Computer Center. 
+I graduated from Shandong Institute of Business and Technology with a bachelor's degree. I am currently pursuing a master's degree at Qilu University of Technology (Shandong Academy of Sciences), supervised by [Li Ye](http://jsxb.scsc.cn/introlist_74/403.html), and I am also a member of the voice information team at the Shandong Computer Center. 
 
 These works are open source to the best of my ability. 
 
@@ -80,18 +80,18 @@ These works are open source to the best of my ability.
 - 2021.04：Honor Scholarship from Shandong Institute of Business and Technology. 
 - 2018.12：Yantai University Student Innovation and Entrepreneurship Competition 🥇 (Team Leader). 
 # 📖 Educations
-- *2022.09 - now*, Master, Qilu University of Technology (Shandong Academy of Sciences), Jinan
-- *2018.09 - 2022.06*, Undergraduate, Shandong Institute of Business and Technology, department of Mathematics and Information Science, Big Data,Yantai
-- *2015.09 - 2018.06*, Changyi First Middle School，Weifang
+- 2022.09 - now, Master, Qilu University of Technology (Shandong Academy of Sciences), Jinan
+- 2018.09 - 2022.06, Undergraduate, Shandong Institute of Business and Technology, department of Mathematics and Information Science, Big Data,Yantai
+- 2015.09 - 2018.06, Changyi First Middle School，Weifang
 
 # 💬 Invited Talks 
-- *2024.11*, Kyoto University.
-- *2020.12*, Hongyang Square.
+- 2024.11, Kyoto University.
+- 2020.12, Hongyang Square.
 
 # 💻 Internships
-- *2024.09 - 2024.11*, Shunwang Software Research Institute, speech synthesis algorithm research 
-- *2023.09 - 2024.09*, Shandong Computer Center, speech coding algorithm research. 
-- *2021.09 - 2022.03*, Dual education, full-stack developer.
+- 2024.09 - 2024.11, Shunwang Software Research Institute, speech synthesis algorithm research 
+- 2023.09 - 2024.09, Shandong Computer Center, speech coding algorithm research. 
+- 2021.09 - 2022.03, Dual education, full-stack developer.
 
 
 # 🎭 Skills
@@ -103,9 +103,9 @@ These works are open source to the best of my ability.
 - Mobile: Proficient in Android and mini-program development, and skilled in using the uniapp framework.
 
 # 🥊 Hobbies
-- *2023.11-2024.04*, I train at Heyou MMA Club under the supervision of Chen Dong. 
-- *2021.06-2021.07*, I train at Jian'ao Boxing under the supervision of Coach Yang Zhongming.
-- *2020.03-2022.06*, I serve as an assistant coach for Kickboxing at Shangboge Fighting, responsible for scheduling and training adult classes in the evenings, under the supervision of Coach Bart.
+- 2023.11-2024.04, I train at Heyou MMA Club under the supervision of Chen Dong. 
+- 2021.06-2021.07, I train at Jian'ao Boxing under the supervision of Coach Yang Zhongming.
+- 2020.03-2022.06, I serve as an assistant coach for Kickboxing at Shangboge Fighting, responsible for scheduling and training adult classes in the evenings, under the supervision of Coach Bart.
 <div style="display: flex; justify-content: space-between; align-items: center; height: 200px;padding: 0 20px;">
   <img src="images/hobby1.png" alt="Image 1" style="width: 30%; height:100%;">
   <img src="images/hobby2.png" alt="Image 2" style="width: 30%; height: 100%;">
