@@ -50,7 +50,7 @@ These works are open source to the best of my ability.
 
 [MSCACodec: A Low-rate Neural Speech Codec With Multi-scale Residual Channel Attention](https://link.springer.com/chapter/10.1007/978-981-96-0125-7_29)
 
-**Xingye Yu**, Ye Li, Peng Zhang, Lingxia Lin, Tianyu Cai
+**Xingye Yu**, Ye Li*, Peng Zhang, Lingxia Lin, Tianyu Cai
 
 [**Project**](https://gityesm.github.io/mscacodec/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A Low-rate Neural Speech Codec With Multi-scale Residual Channel Attention. 
@@ -60,11 +60,11 @@ These works are open source to the best of my ability.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Acoustics</div><img src='images/PMVQCodec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Low Bit-Rate Speech Coding With Predictive Multi-Level Vector Quantization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4877874)
+[Low Bit-Rate Speech Coding With Predictive Multi-Level Vector Quantization](https://www.sciencedirect.com/science/article/pii/S0003682X25000106)
 
-**Xingye Yu**, Ye Li, Peng Zhang, Lingxia Lin, Tianyu Cai
+**Xingye Yu**, Ye Li*, Peng Zhang, Lingxia Lin, Tianyu Cai
 
-[**Project**](https://github.com/GitYesm/PMVQCodec) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A Low-rate Neural Speech Codec With Predictive Multi-Level Vector Quantization
 </div>
 </div>
