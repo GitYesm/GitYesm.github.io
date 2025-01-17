@@ -31,6 +31,9 @@ These works are open source to the best of my ability.
 # 🔥 News
 <div style="height: 240px; overflow-y: auto; padding: 10px; border: none;">
   <ul>
+    <li><strong>2025.01</strong>: 🗿 My second paper has been officially accepted by Applied Acoustics.</li>
+    <li><strong>2024.12</strong>: 🗿 The revision comments for my second article have been returned, and it requires minor revisions.</li>
+    <li><strong>2024.12</strong>: 🗿 The revision comments for my second article have been returned, and it requires minor revisions.</li>
     <li><strong>2024.08</strong>: 🗿 My first paper was accepted by PRICAI.</li>
     <li><strong>2024.08</strong>: 🔧My second patent, titled 'A Speech Compression Method and System Based on Multi-Scale Residual Attention,' has been granted with the patent number CN118335092A.</li>
     <li><strong>2024.07</strong>: 🎲 I submitted a paper to Applied Acoustics.</li>
