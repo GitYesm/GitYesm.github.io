@@ -17,13 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year graduate student at the Shandong Computer Center. 
+I am currently an artificial intelligence worker
 
-I am currently conducting research on low-bitrate speech coding at the Shandong Computer Center. 
-
-I previously interned at the Shunwang Software Research Institute, where I focused on text-to-speech (TTS) research. 
-
-I graduated from Shandong Institute of Business and Technology with a bachelor's degree. I am currently pursuing a master's degree at Qilu University of Technology (Shandong Academy of Sciences), supervised by [Li Ye](http://jsxb.scsc.cn/introlist_74/403.html), and I am also a member of the voice information team at the Shandong Computer Center. 
+I graduated from Shandong Institute of Business and Technology with a bachelor's degree. I graduated with a master's degree from Qilu University of Technology (Shandong Academy of Sciences), supervised by [Li Ye](http://jsxb.scsc.cn/introlist_74/403.html), and I am also a member of the voice information team at the Shandong Computer Center. 
 
 These works are open source to the best of my ability. 
 
