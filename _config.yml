@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xingye Yu (于兴业)"
-description              : "A boy who dreams of starting his own business but has yet to begin. "
+description              : "Accept the ordinary and create the extraordinary. "
 repository               : "GitYesm/GitYesm.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,11 +24,11 @@ author:
   name             : "Xingye Yu (于兴业)"
   avatar           : "images/xingye.png"
   bio              : "Qilu University of Technology (Shandong Academy of Sciences)"
-  location         : "Jinan, China"
+  location         : "Yantai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=sHbBmrkAAAAJ"
-  email            : "10431220534@stu.qlu.edu.cn"
+  email            : "yxy138646@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
