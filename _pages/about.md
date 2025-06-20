@@ -28,7 +28,7 @@ These works are open source to the best of my ability.
 <div style="height: 240px; overflow-y: auto; padding: 10px; border: none;">
   <ul>
     <li><strong>2025.06</strong>: 🎓 Graduated from Shandong Provincial Computing Center as an outstanding graduate.</li>
-    <li><strong>2025.01</strong>: 🗿 My second paper has been officially accepted by Applied Acoustics.</li>
+    <li><strong>2025.01</strong>: 🗿 My second paper has been officially accepted by Applied Acoustics(JCR Q1).</li>
     <li><strong>2024.12</strong>: 🗿 The revision comments for my second article have been returned, and it requires minor revisions.</li>
     <li><strong>2024.08</strong>: 🗿 My first paper was accepted by PRICAI.</li>
     <li><strong>2024.08</strong>: 🔧My second patent, titled 'A Speech Compression Method and System Based on Multi-Scale Residual Attention,' has been granted with the patent number CN118335092A.</li>
@@ -59,7 +59,7 @@ These works are open source to the best of my ability.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Acoustics</div><img src='images/PMVQCodec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Low Bit-Rate Speech Coding With Predictive Multi-Level Vector Quantization(JCR Q1)](https://www.sciencedirect.com/science/article/pii/S0003682X25000106)
+[Low Bit-Rate Speech Coding With Predictive Multi-Level Vector Quantization (JCR Q1)](https://www.sciencedirect.com/science/article/pii/S0003682X25000106)
 
 **Xingye Yu**, Ye Li*, Peng Zhang, Lingxia Lin, Tianyu Cai
 
@@ -70,7 +70,7 @@ These works are open source to the best of my ability.
 
 
 # 🎖 Honors and Awards:
-- 2025.6： Outstanding Graduate of Shandong Provincial Computing Center,
+- 2025.06：Outstanding Graduate of Shandong Provincial Computing Center,
 - 2024.11：First-Class Academic Scholarship from Qilu University of Technology, 
 - 2024.07：National Postgraduate Electronic Design Competition provincial 🥈 (Team Leader).
 - 2023.11：First-Class Academic Scholarship from Qilu University of Technology, grade rank:2/300, GPA:4.54/5.0
