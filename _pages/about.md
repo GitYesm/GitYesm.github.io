@@ -27,6 +27,7 @@ These works are open source to the best of my ability.
 # 🔥 News
 <div style="height: 240px; overflow-y: auto; padding: 10px; border: none;">
   <ul>
+    <li><strong>2025.10</strong>: 🎓 Outstanding Master's Thesis Award from the Shandong Computer Federation.</li>
     <li><strong>2025.06</strong>: 🎓 Graduated from Shandong Provincial Computing Center as an outstanding graduate.</li>
     <li><strong>2025.01</strong>: 🗿 My second paper has been officially accepted by Applied Acoustics(JCR Q1).</li>
     <li><strong>2024.12</strong>: 🗿 The revision comments for my second article have been returned, and it requires minor revisions.</li>
@@ -70,6 +71,7 @@ These works are open source to the best of my ability.
 
 
 # 🎖 Honors and Awards:
+- 2025.10：Outstanding Master's Thesis Award from the Shandong Computer Federation,
 - 2025.06：Outstanding Graduate of Shandong Provincial Computing Center,
 - 2024.11：First-Class Academic Scholarship from Qilu University of Technology, 
 - 2024.07：National Postgraduate Electronic Design Competition provincial 🥈 (Team Leader).
