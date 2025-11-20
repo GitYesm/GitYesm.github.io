@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently an artificial intelligence worker
 
-I graduated from Shandong Institute of Business and Technology with a bachelor's degree. I graduated with a master's degree from Qilu University of Technology (Shandong Academy of Sciences), supervised by [Li Ye](http://jsxb.scsc.cn/introlist_74/403.html), and I am also a member of the voice information team at the Shandong Computer Center. 
+I graduated from Shandong Technology and Business university with a bachelor's degree. I graduated with a master's degree from Qilu University of Technology (Shandong Academy of Sciences), supervised by [Li Ye](http://jsxb.scsc.cn/introlist_74/403.html), and I am also a member of the voice information team at the Shandong Computer Center. 
 
 These works are open source to the best of my ability. 
 
