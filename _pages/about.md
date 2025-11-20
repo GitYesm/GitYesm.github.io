@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently an artificial intelligence worker
 
-I graduated from Shandong Technology and Business university with a bachelor's degree. I graduated with a master's degree from Qilu University of Technology (Shandong Academy of Sciences), supervised by [Li Ye](http://jsxb.scsc.cn/introlist_74/403.html), and I am also a member of the voice information team at the Shandong Computer Center. 
+I graduated from Shandong Technology and Business University with a bachelor's degree. I graduated with a master's degree from Qilu University of Technology (Shandong Academy of Sciences), supervised by [Li Ye](http://jsxb.scsc.cn/introlist_74/403.html), and I am also a member of the voice information team at the Shandong Computer Center. 
 
 These works are open source to the best of my ability. 
 
@@ -78,17 +78,16 @@ These works are open source to the best of my ability.
 - 2023.11：First-Class Academic Scholarship from Qilu University of Technology, grade rank:2/300, GPA:4.54/5.0
 - 2023.07：National Postgraduate Electronic Design Competition provincial 🥈 (Team Leader).
 - 2022.12：Shandong University Student Technological Innovation Competition university 🥇.
-- 2021.06：Second-Class Academic Scholarship from  Shandong Institute of Business and Technology.
+- 2021.06：Second-Class Academic Scholarship from Shandong Technology and Business University.
 - 2021.04：Honor Scholarship from Shandong Institute of Business and Technology. 
 - 2018.12：Yantai University Student Innovation and Entrepreneurship Competition 🥇 (Team Leader). 
 # 📖 Educations
-- 2022.09 - now, Master, Qilu University of Technology (Shandong Academy of Sciences), Jinan
-- 2018.09 - 2022.06, Undergraduate, Shandong Institute of Business and Technology, department of Mathematics and Information Science, Big Data,Yantai
+- 2022.09 - 2025.06, Master, Qilu University of Technology (Shandong Academy of Sciences), Jinan
+- 2018.09 - 2022.06, Undergraduate, Shandong Technology and Business University, School of Mathematics and Information Science,Yantai
 - 2015.09 - 2018.06, Changyi First Middle School，Weifang
 
 # 💬 Invited Talks 
 - 2024.11, Kyoto University.
-- 2020.12, Hongyang Square.
 
 # 💻 Internships
 - 2024.09 - 2024.11, Shunwang Software Research Institute, speech synthesis algorithm research 
@@ -97,12 +96,12 @@ These works are open source to the best of my ability.
 
 
 # 🎭 Skills
-- AI: Proficient in using deep learning frameworks such as PyTorch, PyTorch Lightning, and LangChain.
-- Python: Proficient in using Python and web scraping, and adept at frameworks and technologies like DrissionPage, Django, Gradio, and FastAPI.
-- Java: Proficient in using Java, and skilled in using frameworks and technologies such as SpringBoot3, MyBatis, and SpringCloud.
-- Front-end: Proficient in using HTML, CSS3, and JavaScript, and skilled in using the Vue3 framework.
-- Database: Proficient in using MySQL, SQLite, MongoDB, and Redis.
-- Mobile: Proficient in Android and mini-program development, and skilled in using the uniapp framework.
+- Artificial Intelligence: Specialized in AI with expertise in machine learning, deep learning, speech processing, and other related fields. Proficient in deep learning frameworks such as PyTorch, LangChain, vLLM, and Transformers.
+- Python: Proficient in Python and web scraping, with extensive experience in frameworks and technologies like DrissionPage, Django, Gradio, and FastAPI.
+- Java: Proficient in Java, with hands-on experience in frameworks such as Spring Boot 3, MyBatis, and Spring Cloud.
+- Frontend: Proficient in HTML, CSS3, and JavaScript, with practical experience in the Vue3 framework.
+- Databases: Skilled in using MySQL, SQLite, MongoDB, and Redis.
+- Mobile Development: Experienced in Android and mini-program development, with proficiency in the uniapp framework.
 
 # 🥊 Hobbies
 - 2023.11-2024.04, I train at Heyou MMA Club under the supervision of Chen Dong. 
