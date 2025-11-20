@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an artificial intelligence worker
+I am currently an artificial intelligence worker.
 
 I graduated from Shandong Technology and Business University with a bachelor's degree. I graduated with a master's degree from Qilu University of Technology (Shandong Academy of Sciences), supervised by [Li Ye](http://jsxb.scsc.cn/introlist_74/403.html), and I am also a member of the voice information team at the Shandong Computer Center. 
 
@@ -84,7 +84,7 @@ These works are open source to the best of my ability.
 # 📖 Educations
 - 2022.09 - 2025.06, Master, Qilu University of Technology (Shandong Academy of Sciences), Jinan
 - 2018.09 - 2022.06, Undergraduate, Shandong Technology and Business University, School of Mathematics and Information Science,Yantai
-- 2015.09 - 2018.06, Changyi First Middle School，Weifang
+- 2015.09 - 2018.06, Changyi First Middle School,Weifang
 
 # 💬 Invited Talks 
 - 2024.11, Kyoto University.
