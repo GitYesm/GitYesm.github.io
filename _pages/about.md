@@ -96,12 +96,12 @@ These works are open source to the best of my ability.
 
 
 # 🎭 Skills
-- Artificial Intelligence: Specialized in AI with expertise in machine learning, deep learning, speech processing, and other related fields. Proficient in deep learning frameworks such as PyTorch, LangChain, vLLM, and Transformers.
-- Python: Proficient in Python and web scraping, with extensive experience in frameworks and technologies like DrissionPage, Django, Gradio, and FastAPI.
-- Java: Proficient in Java, with hands-on experience in frameworks such as Spring Boot 3, MyBatis, and Spring Cloud.
-- Frontend: Proficient in HTML, CSS3, and JavaScript, with practical experience in the Vue3 framework.
-- Databases: Skilled in using MySQL, SQLite, MongoDB, and Redis.
-- Mobile Development: Experienced in Android and mini-program development, with proficiency in the uniapp framework.
+- Artificial Intelligence: Specialized in AI with expertise in machine learning, deep learning, speech processing, and related fields. Proficient in deep learning frameworks such as PyTorch, LangChain, vLLM, and Transformers.
+- Python: Proficient in Python programming and web scraping, with extensive practical experience in frameworks and tools including DrissionPage, Django, Gradio, and FastAPI.
+- Java: Skilled in Java development, with hands-on project experience using frameworks such as Spring Boot 3, MyBatis, and Spring Cloud.
+- Frontend: Proficient in HTML, CSS3, and JavaScript, with practical familiarity and experience in the Vue3 framework.
+- Databases: Proficient in using database systems including MySQL, SQLite, MongoDB, and Redis.
+- Mobile Development: Experienced in Android and mini-program development, with proficiency in the uniapp cross-platform framework.
 
 # 🥊 Hobbies
 - 2023.11-2024.04, I train at Heyou MMA Club under the supervision of Chen Dong. 
