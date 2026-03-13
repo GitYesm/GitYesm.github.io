@@ -17,11 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an artificial intelligence worker.
+I am currently an AI algorithm engineer, primarily working in the fields of speech and multimodal-related directions. My areas of interest include low-resource speech codec, speech enhancement, speech synthesis, speech recognition, and speech interaction.
 
 I graduated from Shandong Technology and Business University with a bachelor's degree. I graduated with a master's degree from Qilu University of Technology (Shandong Academy of Sciences), supervised by [Li Ye](http://jsxb.scsc.cn/introlist_74/403.html), and I am also a member of the voice information team at the Shandong Computer Center. 
 
-These works are open source to the best of my ability. 
 
 
 # 🔥 News
